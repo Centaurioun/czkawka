@@ -11,7 +11,7 @@ repository = "https://github.com/qarmin/czkawka"
 
 [dependencies]
 gdk4 = "0.8"
-glib = "0.19"
+glib = "0.22"
 gtk4 = { version = "0.8", default-features = false, features = ["v4_6"] }
 
 humansize = "2.1"
